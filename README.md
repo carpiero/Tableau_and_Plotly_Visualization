@@ -10,8 +10,6 @@
 ### :baby: **Status**
 Ironhack Data Analytics M2 Project
 
-### :computer: **Technology stack**
-
 ### :boom: **Core technical concepts and inspiration**
 
 - Python 3.7.3
