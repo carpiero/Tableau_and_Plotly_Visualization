@@ -1,16 +1,8 @@
-# Data Project README file
+# Ironhack Data Analytics M2 Project README file
 
-The README file describes the essence of the project playing the most important role. Most visitors will simply scroll down about twice on the README and leave if they are not interested. So, the README file should provide the reason **why** to checkout your project!!!). 
-Bearing that in mind, your job is to: 
-- Tell them what it is (with context).
-- Show them what it looks like in action.
-- Show them how they use it.
-- Tell them any other relevant details.
-
-![Image](https://res.cloudinary.com/springboard-images/image/upload/q_auto,f_auto,fl_lossy/wordpress/2019/05/aiexcerpt.png)
+![Image](./images/diamond.png =24x48)
 
 ---
-
 ## **Formatting**
 Your readers will most likely view your README in a browser so please keep that in mind when formatting its content: 
 - Use proper format when necesary (e.g.: `import pandas as pd`). 
