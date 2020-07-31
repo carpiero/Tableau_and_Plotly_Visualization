@@ -10,6 +10,10 @@
 ### :baby: **Status**
 Ironhack Data Analytics M2 Project
 
+#### Tableau link
+
+https://public.tableau.com/profile/carlos.pi.ero.pardo#!/vizhome/ih_datamadpt0420_project_m2/Dashboard2
+
 ### :boom: **Core technical concepts and inspiration**
 
 - Python 3.7.3
