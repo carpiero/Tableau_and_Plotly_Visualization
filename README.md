@@ -1,6 +1,6 @@
 # Ironhack Data Analytics M2 Project README file
 
-![](./images/diamond2.png)
+![](./images/diamond2.png?style=centerme)
 
 ---
 ## **Formatting**
