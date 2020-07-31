@@ -1,6 +1,6 @@
 # Ironhack Data Analytics M2 Project README file
 
-![Image](./images/diamond.png =24x48)
+![](./images/diamond2.png)
 
 ---
 ## **Formatting**
