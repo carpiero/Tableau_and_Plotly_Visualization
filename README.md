@@ -52,6 +52,15 @@ __Main Insights:__
 
 * We could see that the PRICE BOTTOM 1000 only have carats below 0.85 carats and in the PRICE TOP 1000 we don't see diamonds with less (only 22 of 1000) that 1.4 carats.
 
+__Hypothesis Testing:__
+
+* Test 1 - one sample vs constant hypothesis test. 
+
+* Test 2 - two independent samples. 
+
+* conclusions inside notebook004.ipynb
+
+
 
 ### :file_folder: **Folder structure**
 ```
@@ -63,7 +72,8 @@ __Main Insights:__
     ├── notebooks
     │   ├── notebook001.ipynb
     │   └── notebook002.ipynb
-    │   └── notebook002.ipynb
+    │   └── notebook003.ipynb
+    │   └── notebook004.ipynb    
     └── data
         ├── raw
         ├── processed
