@@ -22,6 +22,7 @@ https://public.tableau.com/profile/carlos.pi.ero.pardo#!/vizhome/ih_datamadpt042
 - Matplotlib 3.2.1
 - Seaborn 0.10.1
 - Numpy 1.18.1
+- Scipy 1.4.1
 
 ### :see_no_evil: **Insights**
 
@@ -58,7 +59,7 @@ __Hypothesis Testing:__
 
 * Test 2 - two independent samples. 
 
-* conclusions inside notebook004.ipynb
+* Conclusions inside notebook004.ipynb
 
 
 
