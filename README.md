@@ -13,7 +13,7 @@
 #### [Tableau link](https://public.tableau.com/profile/carlos.pi.ero.pardo#!/vizhome/ih_datamadpt0420_project_m2/Dashboard2)  
 
 
-### :boom: **Core technical concepts and inspiration**
+### :computer: **Core technical concepts and inspiration**
 
 - Python 3.7.3
 - Pandas 0.24.2
@@ -23,7 +23,7 @@
 - Numpy 1.18.1
 - Scipy 1.4.1
 
-### :see_no_evil: **Insights**
+### :newspaper: **Insights**
 
 
 #### Variables
