@@ -1,18 +1,18 @@
-# Ironhack Data Analytics M2 Project README file
+# Tableau & Plotly Visualization
 
-![](./images/diamond2.png?style=centerme)
+![](./images/diam.jpg?style=centerme)
 
 ---
 
-### :raising_hand: **Analysis Diamonds Datasheet** 
+## :loudspeaker: **Visualization | Tableau & Plotly Dashboard to analize a diamond's datasheet** 
 
 
-### :baby: **Status**
-Ironhack Data Analytics M2 Project
+## :chart_with_upwards_trend: **URL** 
 
-#### Tableau link
 
-https://public.tableau.com/profile/carlos.pi.ero.pardo#!/vizhome/ih_datamadpt0420_project_m2/Dashboard2
+#### [Tableau link](https://public.tableau.com/profile/carlos.pi.ero.pardo#!/vizhome/ih_datamadpt0420_project_m2/Dashboard2)  
+
+##### https://public.tableau.com/profile/carlos.pi.ero.pardo#!/vizhome/ih_datamadpt0420_project_m2/Dashboard2
 
 ### :boom: **Core technical concepts and inspiration**
 
